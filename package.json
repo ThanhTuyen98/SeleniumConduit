@@ -21,6 +21,7 @@
         "selenium-webdriver": "^4.1.2"
     },
     "devDependencies": {
+        "cypress": "^10.7.0",
         "mochawesome": "^7.1.3"
     }
 }
